@@ -46,3 +46,8 @@ Full Stack Web Developer based in Mumbai
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aaditya8C&theme=flag-india&border_radius=25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya8C&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
