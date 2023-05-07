@@ -22,7 +22,7 @@ Full Stack Web Developer based in Mumbai
 
 
 - 🔭 I’m currently working on technologies such as React,Tailwind,CSS,Laravel & PHP.
-- 🌱 I’m currently learning Nest.js.
+- 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on MERN stack.
 
 ### :hammer_and_wrench: Languages and Tools :
