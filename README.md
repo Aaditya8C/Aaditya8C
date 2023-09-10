@@ -1,9 +1,26 @@
 <h1 align="center">Hi 👋, I'm Aaditya Jayant Padte</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditya8c&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya8c" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya8c" alt="aaditya8c" /></a> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="300" height="300"/>
+</br>
+</br>
+</br>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aaditya-padte-40086a233/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div></br>
+<img src="https://komarev.com/ghpvc/?username=Aaditya8C&style=flat-square&color=blue" alt=""/>
+</br>
+</div>
+</br></br>
+
+
 
 - 🔭 I’m currently working on **Next.js,React.js,Node.js**
 
@@ -27,3 +44,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya8c&show_icons=true&locale=en&layout=compact" alt="aaditya8c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya8c&" alt="aaditya8c" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditya8c&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya8c" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya8c" alt="aaditya8c" /></a> </p>
