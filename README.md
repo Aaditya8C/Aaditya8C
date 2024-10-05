@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="300" height="300"/> -->
-  <img src="https://raw.githubusercontent.com/Aaditya8C/Aaditya8C/refs/heads/main/Aaditya%20Padte.png" width="100%" height="250"/>
+  <img src="https://github.com/Aaditya8C/Aaditya8C/blob/main/mybanner.png?raw=true" width="100%" height="230"/>
 
 </br>
 </br>
