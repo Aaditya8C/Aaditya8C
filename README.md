@@ -4,7 +4,8 @@
 
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="300" height="300"/> -->
-  <img src="https://imgs.search.brave.com/w3mGTevHGwjmzQlmJCHsHILP3jMV2sqCvEzoEzrZKtY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M4LzY3/LzNhL2M4NjczYWQ0/YzQ2YWRlMDBjZjNi/ZDAwNDlkYjYyYjE2/LmpwZw" width="100%" height="300"/>
+  <img src="https://raw.githubusercontent.com/Aaditya8C/Aaditya8C/refs/heads/main/Aaditya%20Padte.png" width="100%" height="300"/>
+
 </br>
 </br>
 </br>
@@ -25,9 +26,9 @@
 
 - 🔭 I’m currently working on **Next.js,React.js,Node.js**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Blockchain & little bit AI & ML**
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 I’m looking to collaborate on **Web2 & Web3 Development**
 
 - 💬 Ask me about **MERN Stack, Python, Java, C++,Postman**
 
