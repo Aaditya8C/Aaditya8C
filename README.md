@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="300" height="300"/> -->
-  <img src="https://github.com/Aaditya8C/Aaditya8C/blob/main/mybanner.png?raw=true" width="100%" height="230"/>
+  <img src="https://github.com/Aaditya8C/Aaditya8C/blob/main/mybanner.png?raw=true" width="100%" height="250"/>
 
 </br>
 </br>
@@ -13,8 +13,11 @@
   <a href="https://www.linkedin.com/in/aaditya-padte-40086a233/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.youtube.com/@aadityapadte1731">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
+  </a>
+  <a href="https://leetcode.com/u/DEVX008/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
   </a>
 </div></br>
 <img src="https://komarev.com/ghpvc/?username=Aaditya8C&style=flat-square&color=blue" alt=""/>
